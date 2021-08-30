@@ -1,0 +1,32 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+#Cabecario{
+    background-color: #3cb371;
+    width: auto;
+    height: 80px;
+    align-items: center;
+    text-align: center;
+    line-height: 90px;
+    font-size: 50px;
+    
+}
+
+#canvas1{
+    height: 500px;
+    width: 300px;
+    background-color: #e1f3e6;
+    left: 500px;
+    position: relative;
+    border: black solid 5px;
+}
+
+#rodape{
+    background-color: rgb(131, 128, 128);
+    text-decoration: honeydew;
+    text-align: center;
+    height: 30px;
+    line-height: 30px;
+
+}
